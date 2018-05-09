@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\Administrator\Documents\IntelliJIDEAProjektit\vie
+ wportDemo
+Main-Class: Main
+
